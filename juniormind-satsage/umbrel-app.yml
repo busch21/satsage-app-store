@@ -3,7 +3,7 @@ id: juniormind-satsage
 category: bitcoin
 name: SatSage
 icon: https://raw.githubusercontent.com/Juniormind1/SatSage/main/web/img/pfeiffe-icon.png
-version: "0.9.5"
+version: "0.9.6"
 tagline: Know your sats — on-chain holding periods for tax and overview
 description: >-
   SatSage analyses your XPUB wallets and reconstructs when your sats entered or
